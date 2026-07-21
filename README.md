@@ -13,7 +13,7 @@
 <!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=amankumar8050&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://www.linkedin.com/in/amankumar8050">
+<a href="https://www.linkedin.com/in/amankr913">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -35,7 +35,7 @@ class AmanKumar:
         self.education  = "B.Tech CSE (AI & ML) @ BEU Patna"
         self.role       = "AWS Cloud Intern | Developer | AI Enthusiast"
         self.languages  = ["Java", "Python", "PHP", "HTML/CSS", "JavaScript"]
-        self.interests  = ["Cloud Computing ☁️", "AI & ML 🤖", "Web Dev 🌐", "DSA 🧠"]
+        self.interests  = ["Cloud Computing ☁️", "AI & ML 🤖", "Web Dev 🌐", "DSA 🧠", "Data Analysis 📊"]
         self.currently  = "Building scalable solutions & learning every day 🚀"
 
     def say_hi(self):
@@ -74,6 +74,7 @@ me.say_hi()
 ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=azureml&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -89,9 +90,22 @@ me.say_hi()
 
 </div>
 
-> 🔹 Designed a **scalable cloud hosting system** architecture  
-> 🔹 Practiced real-world **AWS architecture** skills  
+> 🔹 Designed a **scalable cloud hosting system** architecture
+> 🔹 Practiced real-world **AWS architecture** skills
 > 🔹 Gained hands-on understanding of **EC2, S3, VPC & IAM**
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 🎓 Program |
+|:---:|:---:|
+| **Government Engineering College, Khagaria** (affiliated to BEU, Patna) | B.Tech, Computer Science & Engineering (AI & ML) |
+| **State Board of Technical Education (SBTE), Bihar** | Diploma in Computer Science |
+
+</div>
 
 ---
 
@@ -100,7 +114,7 @@ me.say_hi()
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amankumar8050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar8050&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=amankumar8050&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/>
 
@@ -146,7 +160,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amankumar8050">
+<a href="https://www.linkedin.com/in/amankr913">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
@@ -156,7 +170,7 @@ me.say_hi()
 
 <br/><br/>
 
-> *"The best way to predict the future is to create it."*  
+> *"The best way to predict the future is to create it."*
 > — **Building mine, one commit at a time. 🚀**
 
 </div>
